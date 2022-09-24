@@ -1,7 +1,7 @@
 
-![](src/main/resources/pictures/1.png)
-![](src/main/resources/pictures/2.png)
-![](src/main/resources/pictures/3.png)
-![](src/main/resources/pictures/4.png)
-![](src/main/resources/pictures/5.png)
-![](src/main/resources/pictures/6.png)
+![](src/main/resources/pictures/about_app.png)
+![](src/main/resources/pictures/features.png)
+![](src/main/resources/pictures/tech_and_frame.png)
+![](src/main/resources/pictures/structure.png)
+![](src/main/resources/pictures/db_diagram.png)
+![](src/main/resources/pictures/quickstart.png)
