@@ -1,5 +1,5 @@
 
-![](src/main/resources/pictures/about_app.png)
+![](src/main/resources/pictures/about_app.jpg)
 ![](src/main/resources/pictures/features.png)
 ![](src/main/resources/pictures/tech_and_frame.png)
 ![](src/main/resources/pictures/structure.png)
